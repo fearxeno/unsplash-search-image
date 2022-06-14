@@ -17,3 +17,5 @@ App that connects whith Unsplash API and allows users to search pictures by word
 
 # Setup:
 Clone this repo to your desktop and run `npm install` to install all the dependencies. Run the app by `npm start`
+
+## Live version link: https://fearxeno.github.io/unsplash-search-image/
