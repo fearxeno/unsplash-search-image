@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #dbe6f6, #c5796d);
+  overflow: hidden;
+}
+
+.container {
+  background-color: white;
+  height: 80vh;
+  border-radius: 2rem;
+  margin-top: 10vh;
+}
