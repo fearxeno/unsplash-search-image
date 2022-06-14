@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fearxeno/unsplash-search-image/static/css/main.20a6f595.css",
-    "main.js": "/fearxeno/unsplash-search-image/static/js/main.145fc0d2.js",
-    "index.html": "/fearxeno/unsplash-search-image/index.html",
-    "main.20a6f595.css.map": "/fearxeno/unsplash-search-image/static/css/main.20a6f595.css.map",
-    "main.145fc0d2.js.map": "/fearxeno/unsplash-search-image/static/js/main.145fc0d2.js.map"
+    "main.css": "/unsplash-search-image/static/css/main.20a6f595.css",
+    "main.js": "/unsplash-search-image/static/js/main.145fc0d2.js",
+    "index.html": "/unsplash-search-image/index.html",
+    "main.20a6f595.css.map": "/unsplash-search-image/static/css/main.20a6f595.css.map",
+    "main.145fc0d2.js.map": "/unsplash-search-image/static/js/main.145fc0d2.js.map"
   },
   "entrypoints": [
     "static/css/main.20a6f595.css",
